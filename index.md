@@ -1,7 +1,7 @@
 ---
 ---
 
-# Updateds sangb21's Website 
+# Update 2 sangb21's Website 
 
 An engaging 1-3 sentence description of your lab.
 
