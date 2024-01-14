@@ -1,7 +1,7 @@
 ---
 ---
 
-# sangb21's Website <!--- Comment --->
+# Updated sangb21's Website 
 
 An engaging 1-3 sentence description of your lab.
 
@@ -26,7 +26,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
   link="research"
   title="Our Research"
   text=text
