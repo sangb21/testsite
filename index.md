@@ -1,9 +1,14 @@
 ---
 ---
 
-# Update 2 sangb21's Website 
+<!-- 
+  _include/feature.html: 
+    How is this different from figure.html, and col.html ? 
+-->
 
-!<-- An engaging 1-3 sentence description of your lab. -->
+# Introduction
+
+An engaging 1-3 sentence description of your lab. 
 
 {% include section.html %}
 
@@ -26,6 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
+  image="images/imageoftree.jpg"
   link="research"
   title="Our Research"
   text=text
