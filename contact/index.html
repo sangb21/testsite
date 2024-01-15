@@ -502,10 +502,21 @@
   
 
   <section class="background" data-size="page">
-    <h1 id="contact-us">Contact Us</h1>
-<p>Viewmount Avenue,
-Toronto, ON
-<!--Canada--></p>
+    <!-- 
+- _include/section.html
+- _inlude/button.html: Create clickable links for email, phone numbers, etc. - referred to as buttons.
+- _include/cols.html: split the page or section of page into multiple columns
+- _include/figure.html: Add a figure, add caption
+
+-->
+
+<h1 id="contact-us">Contact Us</h1>
+
+<p>Viewmount Avenue,</p>
+
+<p>Toronto, ON</p>
+
+<p>Canada</p>
 
 <div class="button-wrapper">
     <a class="button" href="mailto:info.trees123@gmail.com" data-tooltip="Email" data-style="" aria-label="Email">
@@ -554,20 +565,21 @@ Toronto, ON
 -->
 <p>–&gt;</p>
 
+<!-- TO ADD COLUMNS USE cols.html file -->
 <div class="cols" style="--cols: 2">
   
     
     <div>
 <figure class="figure">
-  <a class="figure-image" aria-label="Image of a tree">
+  <a class="figure-image" aria-label="Service Area">
     <img src="/testsite/images/imageoftree.jpg" style="
         width: auto;
         max-height: unset;
-      " alt="Image of a tree" loading="lazy" onerror="this.src = '/testsite/images/fallback.svg'; this.onerror = null;">
+      " alt="Service Area" loading="lazy" onerror="this.src = '/testsite/images/fallback.svg'; this.onerror = null;">
   </a>
   
     <figcaption class="figure-caption">
-      Image of a tree
+      Service Area
 
     </figcaption>
   
