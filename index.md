@@ -48,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/image_tree.jpg"
+  image="images/imageoftree.jpg"
   link="projects"
   title="Our Projects"
   flip=true
