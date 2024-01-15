@@ -5,10 +5,10 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact Us
+# Contact Us
 Viewmount Avenue,
 Toronto, ON
-Canada
+<!--Canada-->
 
 
 
@@ -37,8 +37,8 @@ Canada
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/imageoftree.jpg"
+  caption="Image of a tree"
 %}
 
 {% endcapture %}
@@ -47,8 +47,8 @@ Canada
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/imageoftree.jpg"
+  caption="Image of a tree"
 %}
 
 {% endcapture %}
