@@ -5,10 +5,21 @@ nav:
   tooltip: Email, address, and location
 ---
 
+<!-- 
+- _include/section.html
+- _inlude/button.html: Create clickable links for email, phone numbers, etc. - referred to as buttons.
+- _include/cols.html: split the page or section of page into multiple columns
+- _include/figure.html: Add a figure, add caption
+
+-->
+
 # Contact Us
+
 Viewmount Avenue,
+
 Toronto, ON
-<!--Canada-->
+
+Canada
 
 
 
@@ -38,7 +49,7 @@ Toronto, ON
 {%
   include figure.html
   image="images/imageoftree.jpg"
-  caption="Image of a tree"
+  caption="Service Area"
 %}
 
 {% endcapture %}
@@ -53,6 +64,7 @@ Toronto, ON
 
 {% endcapture %}
 
+<!-- TO ADD COLUMNS USE cols.html file -->
 {% include cols.html col1=col1 col2=col2 %}
 
 <!--{% include section.html dark=true %}-->
