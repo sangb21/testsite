@@ -53,10 +53,12 @@ Check out the images from our past tree work undertaken.
 <!----------------------->
 
 ## Services Offered
+The following tree care services are offered: 
 
-1. Pruning
-2. Trimming
-3. Removals
+- Pruning - Even though early spring, later fall and winter are generally considered to be ideal for pruning jobs, we offer our services year around. 
+- Trimming
+- Removals
+- Hedging 
 
 
 <!--{%
@@ -77,11 +79,15 @@ Our company offers 2 Million dollars in Commercial Liability (CBL) in case of an
 
 ## Team
 
-Sangay is the owner and also the lead tree climber with years of experience and knowledge in the tree care industry. Sangay is awaiting for his certification as a Specialist Tree Climber Certification with International Society of Arboriculture (ISA), and also working towards his dream of becoming a ISA Certified Arborist. 
+Sangay is the owner and also the lead tree climber. He has years of experience and knowledge in the tree care industry. Sangay is awaiting to be certified as a Specialist Tree Climber with with International Society of Arboriculture (ISA). He is also working towards his dream of becoming a ISA Certified Arborist. 
 
-## Service Area
+## Service Areas
 
-Need a map of the area from 
+We offer our services to most areas in the Greate Toronto Area (GTA). 
+
+
+## Call for a Quote 
+All our quotes are free! So don't hesitate to call for any tree realted inquires. 
 
 <!------------------------->
 <!--      END            -->
