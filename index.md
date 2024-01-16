@@ -12,11 +12,11 @@
 
 # Introduction
 
-An engaging 1-3 sentence description of your lab. 
+
 
 {% include section.html %}
 
-## Highlights
+## Past Work
 
 <!------------------------->
 <!--  ADD Past projects  -->
@@ -47,7 +47,11 @@ Check out the images from our past tree work undertaken.
   text=text
 %}
 
-<!--  SERVICES -->
+
+<!----------------------->
+<!--  SERVICES OFFERED -->
+<!----------------------->
+
 ## Services Offered
 
 {%
@@ -59,9 +63,32 @@ Check out the images from our past tree work undertaken.
   style="bare"
 %}
 
+
+## Liability and Insurance
+
+Our company offers 2 Million dollars in Commercial Liability (CBL) in case of any damage to you property. 
+
+
+## Team
+
+Sangay is the owner and also the lead tree climber with years of experience and knowledge in the tree care industry. Sangay is awaiting for his certification as a Specialist Tree Climber Certification with International Society of Arboriculture (ISA), and also working towards his dream of becoming a ISA Certified Arborist. 
+
+
 <!------------------------->
 <!--      END            -->
 <!------------------------->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 {% capture text %}
