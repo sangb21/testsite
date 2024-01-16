@@ -89,6 +89,15 @@ We offer our services to most areas in the Greate Toronto Area (GTA).
 ## Call for a Quote 
 All our quotes are free! So don't hesitate to call for any tree realted inquires. 
 
+
+## Climbing Gear 
+
+- Chainsaws
+- Rigging 
+- Climbing 
+  - Ascending Gear
+- Knots
+
 <!------------------------->
 <!--      END            -->
 <!------------------------->
