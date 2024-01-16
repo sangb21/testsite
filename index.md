@@ -24,8 +24,7 @@
 
 {% capture text %}
 
-Check out the images from our past tree work undertaken.
-
+Listed are highlights some of our more recent work that was undertaken. 
 {%
   include button.html
   link="projects"
@@ -39,7 +38,7 @@ Check out the images from our past tree work undertaken.
 
 {%
   include feature.html
-  image="images/imageoftree.jpg"
+  image="images/climbing_pic.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -74,7 +73,7 @@ The following tree care services are offered:
 
 ## Liability and Insurance
 
-Our company offers 2 Million dollars in Commercial Liability (CBL) in case of any damage to you property. 
+Are you worried of any damages that can occur to you property during a tree service job. You need not worry as our company offers 2 million dollars in Commercial General Liability (CGL) in case of any damage to you property.
 
 
 ## Team
@@ -87,7 +86,7 @@ We offer our services to most areas in the Greate Toronto Area (GTA).
 
 
 ## Call for a Quote 
-All our quotes are free! So don't hesitate to call for any tree realted inquires. 
+All our quotes are free! So don't hesitate to call for any tree related inquires. 
 
 
 ## Climbing Gear 
