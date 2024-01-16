@@ -12,7 +12,7 @@
 
 # Introduction
 
-
+ Nima Tree Services is a small family owned company offering tree care services in the Greater Toronto Area.  
 
 {% include section.html %}
 
@@ -54,7 +54,12 @@ Check out the images from our past tree work undertaken.
 
 ## Services Offered
 
-{%
+1. Pruning
+2. Trimming
+3. Removals
+
+
+<!--{%
   include button.html
   link="research"
   text="List of Services"
@@ -62,6 +67,7 @@ Check out the images from our past tree work undertaken.
   flip=true
   style="bare"
 %}
+-->
 
 
 ## Liability and Insurance
@@ -73,6 +79,9 @@ Our company offers 2 Million dollars in Commercial Liability (CBL) in case of an
 
 Sangay is the owner and also the lead tree climber with years of experience and knowledge in the tree care industry. Sangay is awaiting for his certification as a Specialist Tree Climber Certification with International Society of Arboriculture (ISA), and also working towards his dream of becoming a ISA Certified Arborist. 
 
+## Service Area
+
+Need a map of the area from 
 
 <!------------------------->
 <!--      END            -->
